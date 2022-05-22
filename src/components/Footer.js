@@ -38,24 +38,24 @@ const Footer = () => {
                         new projects and design Challenges.
                     </p>
                     <div className="social">
-                        <Link to="https://www.facebook.com/edeh.johnpaul.7982/" target="_blank" >
+                        <a href="https://www.facebook.com/edeh.johnpaul.7982/" target="_blank" >
                            <FaFacebook size={30} style={{color: 
                                 "white", marginRight:"2rem"}} 
                             />
-                        </Link>
+                        </a>
                         
 
-                        <Link to="https://www.facebook.com/edeh.johnpaul.7982/" >
+                        <a href="https://www.instagram.com/webstudio61" target="_blank">
                            <FaInstagram size={30} style={{color: 
                                 "white", marginRight:"2rem"}} 
                             />
-                        </Link>
+                        </a>
 
-                        <Link to="https://www.facebook.com/edeh.johnpaul.7982/" >
+                        <a href="https://www." target="_blank" >
                            <FaWhatsapp size={30} style={{color: 
                                 "white", marginRight:"2rem"}} 
                             />
-                        </Link>
+                        </a>
                            
                     </div>   
                     
