@@ -38,7 +38,7 @@ const Footer = () => {
                         new projects and design Challenges.
                     </p>
                     <div className="social">
-                        <Link to="https://www.facebook.com/edeh.johnpaul.7982/" >
+                        <Link to="https://www.facebook.com/edeh.johnpaul.7982/" target="_blank" >
                            <FaFacebook size={30} style={{color: 
                                 "white", marginRight:"2rem"}} 
                             />
