@@ -2,7 +2,6 @@ import "./FooterStyles.css"
 
 import React from 'react'
 import {FaFacebook, FaHome, FaInstagram, FaMailBulk, FaPhone, FaWhatsapp} from "react-icons/fa"
-import { Link } from "react-router-dom"
 
 const Footer = () => {
     return  (
@@ -38,20 +37,20 @@ const Footer = () => {
                         new projects and design Challenges.
                     </p>
                     <div className="social">
-                        <a href="https://www.facebook.com/edeh.johnpaul.7982/" target="_blank" >
+                        <a href="https://www.facebook.com/edeh.johnpaul.7982/" target="_blank" rel="noreferrer" >
                            <FaFacebook size={30} style={{color: 
                                 "white", marginRight:"2rem"}} 
                             />
                         </a>
                         
 
-                        <a href="https://www.instagram.com/webstudio61" target="_blank">
+                        <a href="https://www.instagram.com/webstudio61" target="_blank" rel="noreferrer" >
                            <FaInstagram size={30} style={{color: 
                                 "white", marginRight:"2rem"}} 
                             />
                         </a>
 
-                        <a href="https://www." target="_blank" >
+                        <a href="https://www." target="_blank"  rel="noreferrer">
                            <FaWhatsapp size={30} style={{color: 
                                 "white", marginRight:"2rem"}} 
                             />
