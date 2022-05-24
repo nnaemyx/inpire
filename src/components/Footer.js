@@ -1,7 +1,7 @@
 import "./FooterStyles.css"
 
 import React from 'react'
-import {FaFacebook, FaHome, FaInstagram, FaMailBulk, FaPhone, FaWhatsapp} from "react-icons/fa"
+import {FaFacebook, FaInstagram, FaMailBulk, FaPhone, FaWhatsapp} from "react-icons/fa"
 
 const Footer = () => {
     return  (
@@ -26,7 +26,7 @@ const Footer = () => {
                 <div className="right">
                     <h4>About the company</h4>
                     <p>I'M edeh johnpaul chukwuemeka, CEO
-                        Founder of WebStudio. I enjoy discussing 
+                        Founder of MernDock. I enjoy discussing 
                         new projects and design Challenges.
                     </p>
                     <div className="social">

@@ -12,8 +12,8 @@ const Heroimg = () => {
             <img className="hero-img" src={HeroImg} alt="hero"/>
         </div>
         <div className="content">
-            <p>HI, I'M A WEB DEVELOPER</p>
-            <h1>REACT DEVELOPER.</h1>
+            <p>HI, I'M A Full Stack DEVELOPER</p>
+            <h1>MERN Stack.</h1>
             <div>
                 <Link to="/project" className="btn">Projects</Link>
                 <Link to="/contact" className=" btn btn-light">Contact</Link>

@@ -10,7 +10,8 @@ const AboutContent = () => {
         <div className="left">
             <h1>About Me</h1>
             <p>I'M a Edeh Johnpaul Chukwuemeka, Frontend Developer
-                I create responsive website for my clients using React.js
+                I create responsive website for my clients using React.js,NodeJs,ExpressJs
+                ,MongoDB(MERN)
             </p>
             <Link to="/contact" >
                 <button className="btn">Contact</button>
