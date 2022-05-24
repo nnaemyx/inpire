@@ -8,14 +8,7 @@ const Footer = () => {
         <div className="footer">
             <div className="footer-container">
                 <div className="left">
-                    
-                    <div className="location">
-                        <FaHome size={20} style={{color: "white", marginRight:"2rem"}} />
-                    </div>
-                    <div>
-                        <p>No 12a OKolo Street</p>
-                        <p>Onitsha, Anambra state, Nigeria.</p>
-                    </div>
+                
                     
                     <div className="phone">
                         <h4><FaPhone size={20} style={{color: 
@@ -44,13 +37,13 @@ const Footer = () => {
                         </a>
                         
 
-                        <a href="https://www.instagram.com/webstudio61" target="_blank" rel="noreferrer" >
+                        <a href="https://www.instagram.com/webstudio61/" target="_blank" rel="noreferrer" >
                            <FaInstagram size={30} style={{color: 
                                 "white", marginRight:"2rem"}} 
                             />
                         </a>
 
-                        <a href="https://www." target="_blank"  rel="noreferrer">
+                        <a href="https://wa.me/message/ZHSHNKGMSANAG1/" target="_blank"  rel="noreferrer">
                            <FaWhatsapp size={30} style={{color: 
                                 "white", marginRight:"2rem"}} 
                             />
