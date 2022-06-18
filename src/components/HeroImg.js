@@ -12,11 +12,12 @@ const Heroimg = () => {
             <img className="hero-img" src={HeroImg} alt="hero"/>
         </div>
         <div className="content">
-            <p>HI, I'M A Full Stack DEVELOPER</p>
-            <h1>MERN Stack.</h1>
+            <p>HI, I'M Edeh Johnpaul</p>
+            <h1>FUUL STACK DEVELOPER</h1>
             <div>
                 <Link to="/project" className="btn">Projects</Link>
                 <Link to="/contact" className=" btn btn-light">Contact</Link>
+                <Link to="/contact" className=" btn btn-light">Download CV</Link>
             </div>
         </div>
 
