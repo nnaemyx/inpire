@@ -9,43 +9,30 @@
 }
 
 .about .left {
-    text-align: center;
+    text-align: left;
     margin: auto;
     padding: 1rem;
-    max-width: 350px;
+    justify-content: center;
+    width: 50%;
 }
 
 .about .left p{
     margin: 1.2rem 0;
 }
-.about .right {
-    max-width: 700px;
-}
 
-.right .img-container {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    position: relative;
-    align-items: center;
-    text-align: center;
-}
 
-.right .img {
-    max-width: 90%;
-    border: 19px solid #333;
-    margin: 0 9rem;
-}
+
 @media screen and (max-width:740px) {
     .about {
         margin: auto;
         grid-template-columns: 1fr;
     }
-
-    .right .img {
-        border: 9px solid #333;
-        margin: 0 4rem;
-        height: 210px;
-        width: 200rem;
+    .about .left {
+        text-align: center;
+        margin: auto;
+        padding: 1rem;
+        justify-content: center;
+        width: 100%;
     }
     
 }
