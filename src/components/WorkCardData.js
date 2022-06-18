@@ -1,25 +1,45 @@
-import pro1 from "../assests/picture1.jpg"
+import pro1 from "../assests/project1.jpg"
 import pro2 from "../assests/picture2.jpg"
 import pro3 from "../assests/picture3.jpg"
+import pro4 from "../assests/picture5.jpg"
+import pro5 from "../assests/picture6.jpg"
 
 const ProjectCardData = [
     {
         imgsrc: pro1,
-        title: "Restuarant Website Design",
-        text: "Thriving responsive restuarant design",
-        view:"https://shrg-roup46-capstone-project.vercel.app/"
+        title: "E-commerce Website Design",
+        text: "Responsive e-commerce website for a fashion store. STILL UNDER PRODUCTION",
+        view:"/",
+        source:"/"
     },
     {
         imgsrc: pro2,
-        title: "Restuarant Website Design",
-        text: "Thriving responsive restuarant design",
-        view:"https://shrg-roup46-capstone-project.vercel.app/"
+        title: "E-commerce Website Design",
+        text: "Responsive E-commerce website for selling motivational Videos and E-books",
+        view:"https://www.eemademylifeproduction.com",
+        source:""
     },
+
     {
         imgsrc: pro3,
         title: "Restuarant Website Design",
         text: "Thriving responsive restuarant design",
-        view:"https://shrg-roup46-capstone-project.vercel.app/"
+        view:"https://shrg-roup46-capstone-project.vercel.app/",
+        source:"https://github.com/nnaemyx/-SHRGroup46_Capstone-project"
+    },
+    {
+        imgsrc: pro4,
+        title: "Adventure Website Design",
+        text: "Responsive website for Adventure lovers,",
+        view:"https://adventure2.herokuapp.com/",
+        source:"https://github.com/nnaemyx/adventure"
+    },
+    {
+        imgsrc: pro5,
+        title: "Portfolio Website Design",
+        text: "Thriving responsive Portfolio design",
+        view:"https://inpire.vercel.app/",
+        source:"https://github.com/nnaemyx/inpire"
     },
   
 ]
