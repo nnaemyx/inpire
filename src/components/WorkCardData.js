@@ -44,7 +44,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro6,
-        title: "Portfolio Website Design",
+        title: "Data Analytics Website Design",
         text: "Thriving responsive Portfolio design, developed with react and tailwindcss",
         view:"https://tailwind-react.tawny.vercel.app/",
         source:"https://github.com/nnaemyx/tailwind-react"
