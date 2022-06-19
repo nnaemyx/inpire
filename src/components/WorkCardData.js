@@ -3,6 +3,7 @@ import pro2 from "../assests/picture2.jpg"
 import pro3 from "../assests/picture3.jpg"
 import pro4 from "../assests/picture5.jpg"
 import pro5 from "../assests/picture6.jpg"
+import pro6 from "../assests/picture4.png"
 
 const ProjectCardData = [
     {
@@ -40,6 +41,13 @@ const ProjectCardData = [
         text: "Thriving responsive Portfolio design",
         view:"https://inpire.vercel.app/",
         source:"https://github.com/nnaemyx/inpire"
+    },
+    {
+        imgsrc: pro6,
+        title: "Portfolio Website Design",
+        text: "Thriving responsive Portfolio design, developed with react and tailwindcss",
+        view:"https://tailwind-react.tawny.vercel.app/",
+        source:"https://github.com/nnaemyx/tailwind-react"
     },
   
 ]
