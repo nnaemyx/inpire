@@ -54,7 +54,7 @@ const ProjectCardData = [
   },
   {
     imgsrc: pro7,
-    title: "Data Analytics Website Design",
+    title: "A Goalsetter app just like a TODO app",
     text: "A Goalsetter site built with MERN stack and also Redux",
     view: "https://mernappjayp.herokuapp.com/",
     source: "https://github.com/nnaemyx/MERN-tutorial",
